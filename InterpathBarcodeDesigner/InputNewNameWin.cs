@@ -27,5 +27,10 @@ namespace InterpathBarcodeDesigner
 
             textBox_Name.SelectAll();
         }
+
+        private void button_Cancel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
